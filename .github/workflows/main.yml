@@ -20,7 +20,6 @@ jobs:
       run: |
         dir
         python -m pip install --upgrade pip
-        pip install -e .
         python update_data.py
         dir
       
