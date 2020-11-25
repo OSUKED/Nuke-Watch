@@ -20,7 +20,6 @@ jobs:
       run: |
         dir
         python -m pip install --upgrade pip
-        python -m pip install json
         python -m pip install pandas
         python -m pip install requests
         python -m pip install beautifulsoup4
