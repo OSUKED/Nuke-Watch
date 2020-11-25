@@ -1,0 +1,20 @@
+name: NukeWatch
+
+channels:
+  - conda-forge
+  
+dependencies:
+  - python=3.7
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - seaborn
+  - lxml
+  - xmltodict
+  - beautifulsoup4
+  - pip
+  
+  - pip:
+      - -e .
+      - ipypb
+      - feautils
