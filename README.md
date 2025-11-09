@@ -2,4 +2,4 @@
 
 This repository includes code for retrieving the latest information available on the output of EDF nuclear power plants in the UK.
 
-Last updated: 2025-11-09 11:09
+Last updated: 2025-11-09 12:21
